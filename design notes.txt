@@ -1,0 +1,14 @@
+Features:
+- Menu
+- Preset difficulties
+- Custom difficulty
+- Fully featured gameplay (flags, question marks, double/dual clicking etc.)
+- Live counters:
+    - Time (minutes, seconds, milliseconds)
+    - Mines flagged / total mines
+- Replays
+- Scoreboard per difficulty
+- Random board generation
+- Play same board again
+- Play with given randomiser seed
+- Track statistics, both per-game and all-time
