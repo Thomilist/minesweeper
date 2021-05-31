@@ -20,11 +20,11 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "D:/Programming/cpp/projects/minesweeper/build/include/CMakeFiles/Tile.dir/DependInfo.cmake"
-  "D:/Programming/cpp/projects/minesweeper/build/include/CMakeFiles/Board.dir/DependInfo.cmake"
-  "D:/Programming/cpp/projects/minesweeper/build/include/CMakeFiles/EventHandler.dir/DependInfo.cmake"
-  "D:/Programming/cpp/projects/minesweeper/build/include/CMakeFiles/EventLog.dir/DependInfo.cmake"
-  "D:/Programming/cpp/projects/minesweeper/build/include/CMakeFiles/MouseAction.dir/DependInfo.cmake"
+  "D:/Programming/cpp/projects/minesweeper/build/include/ms/CMakeFiles/Tile.dir/DependInfo.cmake"
+  "D:/Programming/cpp/projects/minesweeper/build/include/ms/CMakeFiles/Board.dir/DependInfo.cmake"
+  "D:/Programming/cpp/projects/minesweeper/build/include/ms/CMakeFiles/EventHandler.dir/DependInfo.cmake"
+  "D:/Programming/cpp/projects/minesweeper/build/include/ms/CMakeFiles/EventLog.dir/DependInfo.cmake"
+  "D:/Programming/cpp/projects/minesweeper/build/include/ms/CMakeFiles/MouseAction.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

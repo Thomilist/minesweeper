@@ -5,28 +5,28 @@
   "file": "D:/Programming/cpp/projects/minesweeper/main.cpp"
 },
 {
-  "directory": "D:/Programming/cpp/projects/minesweeper/build/include",
-  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/Board.dir/includes_CXX.rsp -g -o CMakeFiles\\Board.dir\\board.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\board.cpp",
-  "file": "D:/Programming/cpp/projects/minesweeper/include/board.cpp"
+  "directory": "D:/Programming/cpp/projects/minesweeper/build/include/ms",
+  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/Board.dir/includes_CXX.rsp -g -o CMakeFiles\\Board.dir\\board.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\ms\\board.cpp",
+  "file": "D:/Programming/cpp/projects/minesweeper/include/ms/board.cpp"
 },
 {
-  "directory": "D:/Programming/cpp/projects/minesweeper/build/include",
-  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/Tile.dir/includes_CXX.rsp -g -o CMakeFiles\\Tile.dir\\tile.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\tile.cpp",
-  "file": "D:/Programming/cpp/projects/minesweeper/include/tile.cpp"
+  "directory": "D:/Programming/cpp/projects/minesweeper/build/include/ms",
+  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/Tile.dir/includes_CXX.rsp -g -o CMakeFiles\\Tile.dir\\tile.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\ms\\tile.cpp",
+  "file": "D:/Programming/cpp/projects/minesweeper/include/ms/tile.cpp"
 },
 {
-  "directory": "D:/Programming/cpp/projects/minesweeper/build/include",
-  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/MouseAction.dir/includes_CXX.rsp -g -o CMakeFiles\\MouseAction.dir\\mouseaction.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\mouseaction.cpp",
-  "file": "D:/Programming/cpp/projects/minesweeper/include/mouseaction.cpp"
+  "directory": "D:/Programming/cpp/projects/minesweeper/build/include/ms",
+  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/MouseAction.dir/includes_CXX.rsp -g -o CMakeFiles\\MouseAction.dir\\mouseaction.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\ms\\mouseaction.cpp",
+  "file": "D:/Programming/cpp/projects/minesweeper/include/ms/mouseaction.cpp"
 },
 {
-  "directory": "D:/Programming/cpp/projects/minesweeper/build/include",
-  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/EventLog.dir/includes_CXX.rsp -g -o CMakeFiles\\EventLog.dir\\eventlog.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\eventlog.cpp",
-  "file": "D:/Programming/cpp/projects/minesweeper/include/eventlog.cpp"
+  "directory": "D:/Programming/cpp/projects/minesweeper/build/include/ms",
+  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/EventLog.dir/includes_CXX.rsp -g -o CMakeFiles\\EventLog.dir\\eventlog.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\ms\\eventlog.cpp",
+  "file": "D:/Programming/cpp/projects/minesweeper/include/ms/eventlog.cpp"
 },
 {
-  "directory": "D:/Programming/cpp/projects/minesweeper/build/include",
-  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/EventHandler.dir/includes_CXX.rsp -g -o CMakeFiles\\EventHandler.dir\\eventhandler.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\eventhandler.cpp",
-  "file": "D:/Programming/cpp/projects/minesweeper/include/eventhandler.cpp"
+  "directory": "D:/Programming/cpp/projects/minesweeper/build/include/ms",
+  "command": "C:\\mingw-w64\\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -DSFML_STATIC @CMakeFiles/EventHandler.dir/includes_CXX.rsp -g -o CMakeFiles\\EventHandler.dir\\eventhandler.cpp.obj -c D:\\Programming\\cpp\\projects\\minesweeper\\include\\ms\\eventhandler.cpp",
+  "file": "D:/Programming/cpp/projects/minesweeper/include/ms/eventhandler.cpp"
 }
 ]

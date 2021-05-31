@@ -75,12 +75,12 @@ CMakeFiles/Minesweeper.dir/main.cpp.obj: D:/Programming/cpp/libraries/SFML-2.5.1
 CMakeFiles/Minesweeper.dir/main.cpp.obj: D:/Programming/cpp/libraries/SFML-2.5.1/include/SFML/Window/Window.hpp
 CMakeFiles/Minesweeper.dir/main.cpp.obj: D:/Programming/cpp/libraries/SFML-2.5.1/include/SFML/Window/WindowHandle.hpp
 CMakeFiles/Minesweeper.dir/main.cpp.obj: D:/Programming/cpp/libraries/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
-CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/board.hpp
-CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/definitions.hpp
-CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/enums.hpp
-CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/eventhandler.hpp
-CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/eventlog.hpp
-CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/mouseaction.hpp
-CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/tile.hpp
+CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/ms/board.hpp
+CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/ms/definitions.hpp
+CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/ms/enums.hpp
+CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/ms/eventhandler.hpp
+CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/ms/eventlog.hpp
+CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/ms/mouseaction.hpp
+CMakeFiles/Minesweeper.dir/main.cpp.obj: ../include/ms/tile.hpp
 CMakeFiles/Minesweeper.dir/main.cpp.obj: ../main.cpp
 

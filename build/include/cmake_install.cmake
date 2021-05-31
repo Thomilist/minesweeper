@@ -37,3 +37,10 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "C:/mingw-w64/x86_64-7.3.0-release-posix-seh-rt_v5-rev0/mingw64/bin/objdump.exe")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("D:/Programming/cpp/projects/minesweeper/build/include/ms/cmake_install.cmake")
+  include("D:/Programming/cpp/projects/minesweeper/build/include/ui/cmake_install.cmake")
+
+endif()
+

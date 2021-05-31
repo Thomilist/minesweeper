@@ -19,6 +19,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.19.4/CMakeRCCompiler.cmake"
   "CMakeFiles/3.19.4/CMakeSystem.cmake"
   "../include/CMakeLists.txt"
+  "../include/ms/CMakeLists.txt"
+  "../include/ui/CMakeLists.txt"
   "D:/Programs/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake"
   "D:/Programs/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake"
   "D:/Programs/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake"
@@ -52,14 +54,16 @@ set(CMAKE_MAKEFILE_OUTPUTS
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "include/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "include/ms/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "include/ui/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Minesweeper.dir/DependInfo.cmake"
-  "include/CMakeFiles/EventHandler.dir/DependInfo.cmake"
-  "include/CMakeFiles/Tile.dir/DependInfo.cmake"
-  "include/CMakeFiles/Board.dir/DependInfo.cmake"
-  "include/CMakeFiles/EventLog.dir/DependInfo.cmake"
-  "include/CMakeFiles/MouseAction.dir/DependInfo.cmake"
+  "include/ms/CMakeFiles/EventHandler.dir/DependInfo.cmake"
+  "include/ms/CMakeFiles/Tile.dir/DependInfo.cmake"
+  "include/ms/CMakeFiles/Board.dir/DependInfo.cmake"
+  "include/ms/CMakeFiles/EventLog.dir/DependInfo.cmake"
+  "include/ms/CMakeFiles/MouseAction.dir/DependInfo.cmake"
   )

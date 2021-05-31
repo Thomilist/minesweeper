@@ -151,7 +151,7 @@ EventHandler: cmake_check_build_system
 
 # fast build rule for target.
 EventHandler/fast:
-	$(MAKE) $(MAKESILENT) -f include\CMakeFiles\EventHandler.dir\build.make include/CMakeFiles/EventHandler.dir/build
+	$(MAKE) $(MAKESILENT) -f include\ms\CMakeFiles\EventHandler.dir\build.make include/ms/CMakeFiles/EventHandler.dir/build
 .PHONY : EventHandler/fast
 
 #=============================================================================
@@ -164,7 +164,7 @@ Tile: cmake_check_build_system
 
 # fast build rule for target.
 Tile/fast:
-	$(MAKE) $(MAKESILENT) -f include\CMakeFiles\Tile.dir\build.make include/CMakeFiles/Tile.dir/build
+	$(MAKE) $(MAKESILENT) -f include\ms\CMakeFiles\Tile.dir\build.make include/ms/CMakeFiles/Tile.dir/build
 .PHONY : Tile/fast
 
 #=============================================================================
@@ -177,7 +177,7 @@ Board: cmake_check_build_system
 
 # fast build rule for target.
 Board/fast:
-	$(MAKE) $(MAKESILENT) -f include\CMakeFiles\Board.dir\build.make include/CMakeFiles/Board.dir/build
+	$(MAKE) $(MAKESILENT) -f include\ms\CMakeFiles\Board.dir\build.make include/ms/CMakeFiles/Board.dir/build
 .PHONY : Board/fast
 
 #=============================================================================
@@ -190,7 +190,7 @@ EventLog: cmake_check_build_system
 
 # fast build rule for target.
 EventLog/fast:
-	$(MAKE) $(MAKESILENT) -f include\CMakeFiles\EventLog.dir\build.make include/CMakeFiles/EventLog.dir/build
+	$(MAKE) $(MAKESILENT) -f include\ms\CMakeFiles\EventLog.dir\build.make include/ms/CMakeFiles/EventLog.dir/build
 .PHONY : EventLog/fast
 
 #=============================================================================
@@ -203,7 +203,7 @@ MouseAction: cmake_check_build_system
 
 # fast build rule for target.
 MouseAction/fast:
-	$(MAKE) $(MAKESILENT) -f include\CMakeFiles\MouseAction.dir\build.make include/CMakeFiles/MouseAction.dir/build
+	$(MAKE) $(MAKESILENT) -f include\ms\CMakeFiles\MouseAction.dir\build.make include/ms/CMakeFiles/MouseAction.dir/build
 .PHONY : MouseAction/fast
 
 main.obj: main.cpp.obj

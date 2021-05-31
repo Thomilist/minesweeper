@@ -676,7 +676,7 @@ SFML/Config.hpp
 
 D:/Programming/cpp/libraries/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
 
-D:/Programming/cpp/projects/minesweeper/include/board.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/board.hpp
 iostream
 -
 vector
@@ -690,17 +690,17 @@ cmath
 SFML/Graphics.hpp
 -
 definitions.hpp
-D:/Programming/cpp/projects/minesweeper/include/definitions.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/definitions.hpp
 enums.hpp
-D:/Programming/cpp/projects/minesweeper/include/enums.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/enums.hpp
 tile.hpp
-D:/Programming/cpp/projects/minesweeper/include/tile.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/tile.hpp
 
-D:/Programming/cpp/projects/minesweeper/include/definitions.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/definitions.hpp
 
-D:/Programming/cpp/projects/minesweeper/include/enums.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/enums.hpp
 
-D:/Programming/cpp/projects/minesweeper/include/eventhandler.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/eventhandler.hpp
 iostream
 -
 vector
@@ -714,15 +714,15 @@ cmath
 SFML/Graphics.hpp
 -
 definitions.hpp
-D:/Programming/cpp/projects/minesweeper/include/definitions.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/definitions.hpp
 enums.hpp
-D:/Programming/cpp/projects/minesweeper/include/enums.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/enums.hpp
 board.hpp
-D:/Programming/cpp/projects/minesweeper/include/board.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/board.hpp
 eventlog.hpp
-D:/Programming/cpp/projects/minesweeper/include/eventlog.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/eventlog.hpp
 
-D:/Programming/cpp/projects/minesweeper/include/eventlog.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/eventlog.hpp
 iostream
 -
 vector
@@ -736,15 +736,15 @@ cmath
 SFML/Graphics.hpp
 -
 definitions.hpp
-D:/Programming/cpp/projects/minesweeper/include/definitions.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/definitions.hpp
 enums.hpp
-D:/Programming/cpp/projects/minesweeper/include/enums.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/enums.hpp
 board.hpp
-D:/Programming/cpp/projects/minesweeper/include/board.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/board.hpp
 mouseaction.hpp
-D:/Programming/cpp/projects/minesweeper/include/mouseaction.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/mouseaction.hpp
 
-D:/Programming/cpp/projects/minesweeper/include/mouseaction.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/mouseaction.hpp
 iostream
 -
 vector
@@ -758,13 +758,13 @@ cmath
 SFML/Graphics.hpp
 -
 definitions.hpp
-D:/Programming/cpp/projects/minesweeper/include/definitions.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/definitions.hpp
 enums.hpp
-D:/Programming/cpp/projects/minesweeper/include/enums.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/enums.hpp
 board.hpp
-D:/Programming/cpp/projects/minesweeper/include/board.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/board.hpp
 
-D:/Programming/cpp/projects/minesweeper/include/tile.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/tile.hpp
 iostream
 -
 vector
@@ -778,11 +778,11 @@ cmath
 SFML/Graphics.hpp
 -
 definitions.hpp
-D:/Programming/cpp/projects/minesweeper/include/definitions.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/definitions.hpp
 enums.hpp
-D:/Programming/cpp/projects/minesweeper/include/enums.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/enums.hpp
 board.hpp
-D:/Programming/cpp/projects/minesweeper/include/board.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/board.hpp
 
 D:/Programming/cpp/projects/minesweeper/main.cpp
 iostream
@@ -795,12 +795,12 @@ memory
 -
 SFML/Graphics.hpp
 -
-include/definitions.hpp
-D:/Programming/cpp/projects/minesweeper/include/definitions.hpp
-include/board.hpp
-D:/Programming/cpp/projects/minesweeper/include/board.hpp
-include/eventhandler.hpp
-D:/Programming/cpp/projects/minesweeper/include/eventhandler.hpp
-include/eventlog.hpp
-D:/Programming/cpp/projects/minesweeper/include/eventlog.hpp
+include/ms/definitions.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/definitions.hpp
+include/ms/board.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/board.hpp
+include/ms/eventhandler.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/eventhandler.hpp
+include/ms/eventlog.hpp
+D:/Programming/cpp/projects/minesweeper/include/ms/eventlog.hpp
 
