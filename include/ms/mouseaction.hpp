@@ -12,7 +12,7 @@
 #include <SFML/Graphics.hpp>
 
 // Custom headers
-#include "definitions.hpp"
+#include "../definitions.hpp"
 #include "enums.hpp"
 #include "board.hpp"
 

@@ -8,7 +8,7 @@
 #include <SFML/Graphics.hpp>
 
 // Custom headers
-#include "include/ms/definitions.hpp"
+#include "include/definitions.hpp"
 #include "include/ms/board.hpp"
 #include "include/ms/eventhandler.hpp"
 #include "include/ms/eventlog.hpp"

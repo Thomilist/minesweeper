@@ -23,13 +23,19 @@ namespace ms
             // The window receives a mouse button press.
             case sf::Event::MouseButtonPressed:
             {
-                MousePress();
+                if (board->IsPointWithin(sf::Vector2f(event->mouseButton.x, event->mouseButton.y)))
+                {
+                    MousePress();
+                }
                 break;
             }
             // The window receives a mouse button release.
             case sf::Event::MouseButtonReleased:
             {
-                MouseRelease();
+                if (board->IsPointWithin(sf::Vector2f(event->mouseButton.x, event->mouseButton.y)))
+                {
+                    MouseRelease();
+                }
                 break;
             }
         }

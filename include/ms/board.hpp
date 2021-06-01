@@ -12,14 +12,16 @@
 #include <SFML/Graphics.hpp>
 
 // Custom headers
-#include "definitions.hpp"
+#include "../definitions.hpp"
 #include "enums.hpp"
 #include "tile.hpp"
+#include "../ui/elements/dynamic.hpp"
 
 namespace ms
 {
     class Board
         : public std::enable_shared_from_this<Board>
+        , public ui::Dynamic
     {
         public:
             Board(  std::shared_ptr<sf::RenderWindow> a_window,

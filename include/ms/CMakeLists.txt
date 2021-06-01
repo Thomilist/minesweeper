@@ -5,6 +5,7 @@ target_link_libraries(Tile Board)
 add_library(Board board.cpp)
 target_link_libraries(Board sfml-graphics)
 target_link_libraries(Board Tile)
+target_link_libraries(Board Dynamic)
 
 add_library(EventHandler eventhandler.cpp)
 target_link_libraries(EventHandler sfml-graphics)
