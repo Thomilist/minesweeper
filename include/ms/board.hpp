@@ -43,7 +43,6 @@ namespace ms
             std::shared_ptr<Tile> CoordsToTile(uint32_t a_x, uint32_t a_y);
 
             GameState game_state = GameState::Start;                // The state of the current Minesweeper game.
-            std::shared_ptr<sf::RenderWindow> window;               // The window all graphics are drawn to.
             std::vector<std::vector<std::shared_ptr<Tile>>> tiles;  // The array of tiles.
             sf::Vector2f board_size;                                // The size of the board in pixels.
             sf::Vector2f board_position;                            // The position in the window of the top left corner of the board.

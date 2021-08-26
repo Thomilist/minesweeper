@@ -10,8 +10,8 @@ namespace ms
         : Dynamic(  sf::Vector2f(   a_tile_size.x * a_tile_count.x,
                                     a_tile_size.y * a_tile_count.y  ),
                     sf::Vector2f(   (a_window->getSize().x - a_tile_size.x * a_tile_count.x) / 2,
-                                    (a_window->getSize().y - a_tile_size.y * a_tile_count.y) / 2    ))
-        , window(a_window)
+                                    (a_window->getSize().y - a_tile_size.y * a_tile_count.y) / 2    ),
+                    a_window    )
         , tile_size(a_tile_size)
         , tile_count(a_tile_count)
         , mine_count(a_mine_count)

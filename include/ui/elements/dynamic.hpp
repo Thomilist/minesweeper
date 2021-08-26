@@ -21,10 +21,12 @@ namespace ui
     {
         public:
             Dynamic(    sf::Vector2f a_size,
-                        sf::Vector2f a_position );
+                        sf::Vector2f a_position,
+                        std::shared_ptr<sf::RenderWindow> a_window  );
             ~Dynamic();
 
             bool IsPointWithin(sf::Vector2f a_point);
+            bool IsMouseOver();
             void Enable();
             void Disable();
 
