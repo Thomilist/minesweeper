@@ -1,6 +1,5 @@
-# Ignore build output except executable
+# Ignore build output
 build/*
-# !build/Minesweeper.exe
 
 # Ignore environment configuration files
 .vscode/*

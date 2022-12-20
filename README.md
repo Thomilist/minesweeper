@@ -1,6 +1,5 @@
 # Minesweeper
 My own take on Microsoft's classic game Minesweeper written in C++ using SFML.
-The purpose is to practise and improve my coding skills.
 
 ## Implemented Features
 
@@ -19,7 +18,6 @@ The purpose is to practise and improve my coding skills.
         * Live placement on leaderboard
     * Clearance progress
 * Menus
-    * https://stackoverflow.com/questions/2298242/callback-functions-in-c
     * Main
     * End-game
     * Settings
